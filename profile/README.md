@@ -1,5 +1,5 @@
 Ao longo de alguns anos grupos de comunicação de tecnologia tem discutido sobre como foi e como pode ser a nova produção de hardware no brasil.
-Para isso o repositorio foi criado para  organizar a industralia brasileira na area de criação de produção de Semicondutores.
+Para isso o repositorio foi criado para  organizar a industria brasileira na area de design e produção de Semicondutores.
 
 O Brasil [já produziu alguns computadores](https://github.com/ArqueologiaDigital/PatinhoFeio) e videogames ao longo de sua historia
  e possui algumas fabricas que não estão sendo usadas por falta de pressão popular. 
